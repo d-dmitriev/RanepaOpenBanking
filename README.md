@@ -72,7 +72,7 @@ gantt
     MVP-концепт                         :crit,    ana1, after res9, 3d
     UX-прототип в Figma                 :crit,    ana2, after ana1, 2d
     Метрики успеха и план проверки      :         ana3, after ana1, 2d
-    Чекпойнт 2 (MVP + Figma + метрики)  :milestone, cp2, 2025-12-19, 1d
+    Чекпойнт 2                          :milestone, cp2, 2025-12-19, 1d
 
     section Финализация
     Фидбэк от ментора                   :         fin1, 2025-12-20, 2d
