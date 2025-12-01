@@ -143,3 +143,5 @@ gantt
 
 [Memo 2](https://github.com/d-dmitriev/RanepaOpenBanking/blob/main/MEMO2.md)
 
+[Общая папка Google](https://drive.google.com/drive/folders/1IwNigKtR2OAklUrgYJSuKIGQtbgf-zH6?usp=sharing)
+
